@@ -1,0 +1,1 @@
+this script swaps a string keyboard layout passed into ```swap_qwerty(str string, str mode)```
