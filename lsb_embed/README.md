@@ -1,0 +1,1 @@
+```python main.py -u catndog.webp -l lower.png -o output.png -b 1```
